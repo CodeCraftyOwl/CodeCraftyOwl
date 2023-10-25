@@ -1,6 +1,6 @@
 # Hi there, i am CodeCraftyOwl 👋
 
-I'm just a guy who writes code and creates software :)
+### Just a guy who writes code and creates software :)
 
 - 🔭 Full Stack Dev with 10+ years of experience
     - In love with Python, Node.js, Go, React, Angular, Docker, Linux Server, MacOS and Coffee ❤️
